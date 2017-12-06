@@ -12,6 +12,6 @@
     <h1>Hello, world!</h1>
         Git connected
     </body>
-<?php echo="php is working" ?>
+<?php echo "php is working" ?>
 
 </html>
